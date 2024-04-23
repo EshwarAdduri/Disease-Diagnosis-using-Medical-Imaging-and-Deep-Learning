@@ -8,3 +8,5 @@ __pycache__
 **/data
 **/dataset
 **/chest_xray
+**/**.h5
+**/*.h5
