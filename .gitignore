@@ -1,0 +1,10 @@
+cmd.txt
+refer/
+test/
+.conda
+.vscode
+__pycache__
+**/ipynb_checkpoints/
+**/data
+**/dataset
+**/chest_xray
