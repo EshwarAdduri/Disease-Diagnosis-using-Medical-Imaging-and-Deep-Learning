@@ -4,9 +4,10 @@ test/
 .conda
 .vscode
 __pycache__
-**/ipynb_checkpoints/
 **/data
 **/dataset
 **/chest_xray
-**/**.h5
-**/*.h5
+Models
+
+
+
