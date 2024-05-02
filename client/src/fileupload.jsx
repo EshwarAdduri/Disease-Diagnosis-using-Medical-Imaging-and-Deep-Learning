@@ -24,6 +24,7 @@ const fileupload = ({ url }) => {
 				method: "POST",
 				contentType: "multipart/form-data",
 				body: formData,
+				mode: 'no-cors'
 			});
 			const data = await response.json();
 			setLoading(false);
